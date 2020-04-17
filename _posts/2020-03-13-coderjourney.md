@@ -4,7 +4,7 @@ current: post
 cover:  assets/images/dilbert.jpg
 navigation: True
 title: A coder's journey
-date: 2020-20-20 10:00:00
+date: 2020-03-15 10:00:00
 tags: [probody]
 class: post-template
 subclass: 'post tag-getting-started'
