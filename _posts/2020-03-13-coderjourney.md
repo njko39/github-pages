@@ -1,11 +1,11 @@
 ---
 layout: post
 current: post
-cover:  assets/images/dilbert.jpg
+cover:  assets/images/sole.png
 navigation: True
 title: A coder's journey
 date: 2020-03-15 10:00:00
-tags: [probody]
+tags: [coderdojo]
 class: post-template
 subclass: 'post tag-getting-started'
 author: m4sterbunny
