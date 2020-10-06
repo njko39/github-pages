@@ -18,7 +18,7 @@ Due to the remote world this year, we're running Coolest Projects South Africa 1
 
 <!--more-->
 
-Coder:LevelUp is a South African non-profit focused on growing coding & coders in South Africa and Africa. We have partnered with the Raspberry Pi Foundation to bring Coolest Projects to South Africa. 
+Coder:LevelUp is a South African non-profit focused on growing coding & coders in South Africa and Africa. We have partnered with the [Raspberry Pi Foundation](https://www.raspberrypi.org/) to bring Coolest Projects to South Africa. 
 
 Why enter? 
  * Certificates: Everyone submitting a valid project will get a printable certificate
@@ -42,4 +42,4 @@ Entries can be in one of the following categories:
 Special bonus AfriCan code challenge: 'Courageous Coders' submit a scratch project showing how tech will change the future of education. Tick the box when entering and we will submit it to both this competition and the Africa Code Week AfriCan code challenge. We have co-ordinated with ACW to share projects (with your permission) to double the joy.
 
 When you're ready, submit your project here: 
-[Coolest Projects 2020 South Africa Entry Form](https://forms.gle/uvc55CvQCWcB5twB8)
+[Coolest Projects 2020 South Africa Entry Form](https://forms.gle/o2eqnmrnMu9PJq8y9)
