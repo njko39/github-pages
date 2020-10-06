@@ -42,4 +42,5 @@ Entries can be in one of the following categories:
 Special bonus AfriCan code challenge: 'Courageous Coders' submit a scratch project showing how tech will change the future of education. Tick the box when entering and we will submit it to both this competition and the Africa Code Week AfriCan code challenge. We have co-ordinated with ACW to share projects (with your permission) to double the joy.
 
 When you're ready, submit your project here: 
+
 [Coolest Projects 2020 South Africa Entry Form](https://forms.gle/o2eqnmrnMu9PJq8y9)
