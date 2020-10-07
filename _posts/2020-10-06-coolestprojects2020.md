@@ -32,6 +32,8 @@ Who can enter Coolest Projects:
 
 What sort of projects? Lots! Here's a [gallery from the global competition](https://online.coolestprojects.org/gallery) to get your creative juices flowing.
 
+![Global Gallery](assets/images/global_gallery.png)
+
 Entries can be in one of the following categories:
  * visual programming: projects made in scratch, blockly
  * web: a page or site made in HTML, CSS and optionally javascript
