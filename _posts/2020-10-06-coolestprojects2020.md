@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/coolest_projects.png
+cover: assets/images/Coolest_Projects_2020_Logo_South_Africa.png
 navigation: True
 title: Coolest Projects South Africa 2020
 date: 2020-10-01 02:02:00
