@@ -54,3 +54,7 @@ Make a short video in which you answer these three questions:
 When you're ready, submit your project details and video here: 
 
 [Coolest Projects 2020 South Africa Entry Form](https://forms.gle/o2eqnmrnMu9PJq8y9)
+
+Closing date: 30 November 2020
+
+Judging and awards will happen in the first 2 weeks of December.
