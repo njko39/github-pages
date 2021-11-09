@@ -3,8 +3,8 @@ layout: post
 current: post
 cover:  assets/images/coderetreat.jpg
 navigation: True
-title: About CodeRetreat
-date: 2019-01-17 10:00:00
+title: Global Day of CodeRetreat 2021
+date: 2021-11-07 10:00:00
 tags: [coderetreat]
 class: post-template
 subclass: 'post tag-getting-started'
