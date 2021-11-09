@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/coderetreat.jpg
+cover:  assets/images/coderetreat-space.png
 navigation: True
 title: Global Day of CodeRetreat 2021
 date: 2021-11-07 10:00:00
