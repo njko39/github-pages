@@ -51,7 +51,7 @@ Make a short video in which you answer these three questions:
 
 When you're ready, submit your project details and video here: 
 
-[Coolest Projects 2021 South Africa Entry Form]()
+[Coolest Projects 2021 South Africa Entry Form](https://forms.gle/qGkEDVDgsuSaYVz57)
 
 Closing date: 30 November 2021
 
