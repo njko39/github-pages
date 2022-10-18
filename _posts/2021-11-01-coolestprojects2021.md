@@ -3,8 +3,8 @@ layout: post
 current: post
 cover: assets/images/Coolest_Projects_2020_Logo_South_Africa.png
 navigation: True
-title: Coolest Projects South Africa 2021
-date: 2021-11-01 02:02:00
+title: Coolest Projects South Africa 2022
+date: 2022-10-18 02:02:00
 tags: [Coolest Projects]
 class: post-template
 subclass: 'post tag-getting-started'
@@ -12,9 +12,11 @@ author: campey
 excerpt_separator: <!--more-->
 ---
 
-Coolest Projects is the world's leading technology fair for young people. This year for the second time in Africa!
+Coolest Projects is the world's leading technology fair for young people. This year for the third time in Africa!
 
-Due to the remote world this year, we're running Coolest Projects South Africa 100% online, so you can submit from anywhere, to showcase a cool project you did this year.
+With a return to in-person, we're running Coolest Projects South Africa online, with an in-person event in Cape Town on Saturday 10 December 2022.
+
+So you can still submit from anywhere, to showcase a cool project you did this year. Then if you can be in Cape Town, we'd love to invite you to present your project in-person!
 
 <!--more-->
 
@@ -30,8 +32,10 @@ Coder:LevelUp is a South African non-profit focused on growing coding & coders i
  * from any coding school whether part of a Coder Dojo, Code Club, or school society, learnt with mom/dad/aunty, self-taught
  * living and learning in South Africa!
 
-# What sort of projects? 
-Lots! Here's a [gallery from the global competition](https://online.coolestprojects.org/gallery), basically anything you might have done this year.
+# What sort of projects?
+Lots! Here's a [gallery from the global competition](https://online.coolestprojects.org/gallery).
+
+This isn't supposeed to be a new project (although it can be), it can be anything you might have created this year that you would like to share.
 
 ![Global Gallery](assets/images/global_gallery.png)
 
@@ -51,8 +55,7 @@ Make a short video in which you answer these three questions:
 
 When you're ready, submit your project details and video here: 
 
-[Coolest Projects 2021 South Africa Entry Form](https://forms.gle/qGkEDVDgsuSaYVz57)
+[Coolest Projects 2022 South Africa Entry Form](https://forms.gle/5Gp77YCLjfWXFu4E6)
 
-Closing date: 30 November 2021
-
-Judging and awards will happen in the first 2 weeks of December.
+Closing date for submissions: 21 November 2021
+In-person event, and remote feedback: 10 December 2022.
