@@ -57,5 +57,5 @@ When you're ready, submit your project details and video here:
 
 [Coolest Projects 2022 South Africa Entry Form](https://forms.gle/5Gp77YCLjfWXFu4E6)
 
-Closing date for submissions: 21 November 2021
-In-person event, and remote feedback: 10 December 2022.
+ * Closing date for submissions: 21 November 2022
+ * In-person event, and remote feedback: 10 December 2022.
