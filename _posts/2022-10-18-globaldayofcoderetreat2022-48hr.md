@@ -28,6 +28,8 @@ This fitted well with Bob's vision of a global, continuous "fluid mob", which co
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Ensembles... ensembling!<br><br>T+2h49m: groups getting into the groove of forming and self-organising, newcomers integrating, and folks generally having a great time!<br><br>Not too late to join!, we still have 45h11 minutes to go of <a href="https://twitter.com/hashtag/gdcr?src=hash&amp;ref_src=twsrc%5Etfw">#gdcr</a>! <a href="https://t.co/FktILrjRqM">pic.twitter.com/FktILrjRqM</a></p>&mdash; :David Campey (@davidcampey) <a href="https://twitter.com/davidcampey/status/1588546553870192641?ref_src=twsrc%5Etfw">November 4, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-This year we used the gather.town space station for the second time, and were joined by facilitators and participants around the world, around the clock.
+This year we used the gather.town space station for the second time, and were joined by facilitators and participants around the world, around the clock. With co-sponsorship from Gather Inc, Coder:LevelUp was in the position sponsored the gather.town space, if you'd like to donate to help recover these costs, and make future events possible: https://www.backabuddy.co.za/champion/project/levelup-fundraiser
 
 <iframe src="https://mastodon.online/@davidcampey/109297224657957321/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://cdn.mastodon.online/embed.js" async="async"></script>
+
+See you next year!
