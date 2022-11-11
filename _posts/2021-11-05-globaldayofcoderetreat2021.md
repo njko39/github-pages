@@ -27,4 +27,4 @@ We ran something remote here in Cape Town, as part of Global Day of CodeRetreat 
 ## Template
 
 Here's our template for the day (feel free to re-use/remix).
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vSePUUXNRu8xgYuk8afOSvQEzdMmIW-WDZq-Ui8hfJwTIMrfon1wvviHvMHQRhK-rr9TBnEr3XyDJZx/pub?embedded=true"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSePUUXNRu8xgYuk8afOSvQEzdMmIW-WDZq-Ui8hfJwTIMrfon1wvviHvMHQRhK-rr9TBnEr3XyDJZx/pub?embedded=true" width="800" height="600" style="border:1px solid black;"></iframe>
