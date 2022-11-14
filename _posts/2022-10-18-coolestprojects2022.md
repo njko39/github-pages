@@ -14,11 +14,16 @@ excerpt_separator: <!--more-->
 
 Coolest Projects is the world's leading technology fair for young people. This year for the third time in Africa!
 
-With a return to in-person, we're running Coolest Projects South Africa online, with an in-person event in Cape Town on Saturday 10 December 2022.
-
-So you can still submit from anywhere, to showcase a cool project you did this year. Then if you can be in Cape Town, we'd love to invite you to present your project in-person!
+With a return to in-person, we're running Coolest Projects South Africa online, with an in-person event in Cape Town on the morning of Saturday 10 December 2022.
 
 <!--more-->
+
+Update 🥳: thanks to sponsorship, all clubs/schools/societies submitting at least one project will get a [pi pico](https://www.pishop.co.za/store/raspberry-pi-pico_0/raspberry-pi-pico-h) and [basics kit](https://www.pishop.co.za/store/raspberry-pi-pico-basic-kit---without-pico) 🤓
+
+So, in summary:
+ * you can still submit projects from anywhere in SA, to showcase a cool project you did this year, 
+ * get a kit for your club. 
+ * Then if you can be in Cape Town, we'd love to invite you to present your project in-person!
 
 Coder:LevelUp is a South African non-profit focused on growing coding & coders in South Africa and Africa. We have partnered with the [Raspberry Pi Foundation](https://www.raspberrypi.org/) to bring Coolest Projects to South Africa. 
 
