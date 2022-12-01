@@ -43,7 +43,8 @@ Coder:LevelUp is a South African non-profit focused on growing coding & coders i
 
 # What sort of projects?
 Lots! Here's a video of some Coolest Projects from 2020: 
-[![video of some Coolest Projects from 2020](https://img.youtube.com/vi/C3B-UlnBlfg/0.jpg)](https://www.youtube.com/watch?v=C3B-UlnBlfg)
+[![video of Coolest Projects from 2020](assets/images/coolestprojects-youtube.png
+)](https://www.youtube.com/watch?v=C3B-UlnBlfg)
 
 This isn't supposeed to be a new project (although it can be), it can be anything you might have created this year that you would like to share. Whether the work of an hour or a hundred hours, all projects are cool and welcome :)
 
