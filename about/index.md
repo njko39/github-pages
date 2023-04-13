@@ -32,6 +32,7 @@ Specifically, we work across:
  * 2018 incorporation as LevelUp NPC allow us to better organise and collaborate with other orgs for our activities across kids, pros and startups.
  * 2019 CoderDojo Growth Partnership
  * 2020 IITPSA MOU to formalise the devdev working group.
+ * 2020 First Coolest Projects South Africa
  * 2023 Raspberry Pi Foundation funded programme to grow Code Clubs in the Western Cape.
  * ...2048 BHAG: Community of 500 000 coders in the Western Cape
 
