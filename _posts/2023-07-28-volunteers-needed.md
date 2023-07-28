@@ -5,7 +5,7 @@ cover:  assets/images/dojo_group.png
 navigation: True
 title: Volunteers at coding clubs
 date: 2023-07-28 12:30:00
-tags: [codeclub] [coderdojo]
+tags: [codeclub, coderdojo]
 class: post-template
 subclass: 'post tag-getting-started'
 author: campey
