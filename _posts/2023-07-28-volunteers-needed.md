@@ -49,9 +49,8 @@ More info on volunteering:
  * <https://coderdojo.com/en/volunteer>
 
 Specific training for 1st time mentors:
- * Ideally please do this 30 min safeguarding e-learning module <https://projects.raspberrypi.org/en/projects/safeguarding-module/>
- * a good one to review on how / where you'll be helping.
-<https://projects.raspberrypi.org/en/projects/dojo-mentoring/>
+ * Ideally please do this 30 min safeguarding e-learning module. <https://projects.raspberrypi.org/en/projects/safeguarding-module/>
+ * a good one to review on how / where you'll be helping. <https://projects.raspberrypi.org/en/projects/dojo-mentoring/>
  * Specifically, we'll start most newcomers on "space talk", the first step in the scratch pathway, that you can play through here: <https://projects.raspberrypi.org/en/projects/space-talk>
 
 Plus there'll be lots of friendly fellow mentors and teachers along on the journey.
