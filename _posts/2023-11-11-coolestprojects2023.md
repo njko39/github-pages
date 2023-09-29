@@ -25,7 +25,7 @@ Why the weird time? Glad you asked! It let's us write the time as:
 
 Delighted to announce CTSC as our venue for this year, we can show our projects along with all the cool science stuff!
 
-# How do I register?
+# How do I enter?
 
 Register here: 
 [Coolest Projects 2023 South Africa Entry Form](https://forms.gle/EQquPXA5VeXujSpC7)
