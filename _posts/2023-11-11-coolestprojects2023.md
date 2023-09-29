@@ -15,30 +15,26 @@ excerpt_separator: <!--more-->
 Coolest Projects is the world's leading technology fair for young people. This year for the fourth time in Africa!
 
 # When? 
-11:11am 11 Nov 2023
+**11:11am 11 Nov 2023**
+
 Why the weird time? Glad you asked! It let's us write the time as:
 `11:11 11/11`
 
-# Where
-Cape Town Science Centre
+# Where?
+**Cape Town Science Centre**
 
 Delighted to announce CTSC as our venue for this year, we can show our projects along with all the cool science stuff!
 
 <!--more-->
-
-# Who
-
-Coolest projects is open 
+# Who can enter Coolest Projects?
+ * any young person up to the age of 18 (or still in school)
+ * from any coding background whether part of a Coder Dojo, Code Club, or school society, learnt with mom/dad/aunty, self-taught
+ * living and learning in South Africa!
 
 # Why enter?
  * Certificates: Everyone submitting a valid project will get a certificate
  * Show-casing your talent: you'll show off what SA talent can do!
  * Swag: prizees and give-aways!
-
-# Who can enter Coolest Projects:
- * any young person up to the age of 18 (or still in school)
- * from any coding background whether part of a Coder Dojo, Code Club, or school society, learnt with mom/dad/aunty, self-taught
- * living and learning in South Africa!
 
 # What sort of projects?
 Lots! Here's a video of some Coolest Projects from 2020: 
