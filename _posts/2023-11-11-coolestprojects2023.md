@@ -58,7 +58,7 @@ Register here:
 ## In Person
 Simply bring yourself and your project to the event!
 
-The in-person event will be in Cape Town on the morning of Saturday 11 November (11/11) 2023, at Innovation City.
+The in-person event will be in Cape Town on the morning of Saturday 11 November (11/11) 2023, at the Cape Town Science Centre.
  * 10:00 Project exhibitors arrive and set up at their desks
  * 11:11 Open to public / friends / judging starts
  * 13:00 Ceremony, judges awards
