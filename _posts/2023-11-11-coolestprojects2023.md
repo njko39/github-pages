@@ -15,15 +15,20 @@ excerpt_separator: <!--more-->
 Coolest Projects is the world's leading technology fair for young people. This year for the fourth time in Africa!
 
 # When? 
-**11:11am 11 Nov 2023**
+## 11:11am 11 Nov 2023
 
 Why the weird time? Glad you asked! It let's us write the time as:
 `11:11 11/11`
 
 # Where?
-**Cape Town Science Centre**
+## Cape Town Science Centre 
 
 Delighted to announce CTSC as our venue for this year, we can show our projects along with all the cool science stuff!
+
+# How do I register?
+
+Register here: 
+[Coolest Projects 2023 South Africa Entry Form](https://forms.gle/EQquPXA5VeXujSpC7)
 
 <!--more-->
 # Who can enter Coolest Projects?
@@ -50,7 +55,7 @@ Entries can be in one of the following categories:
  * hardware: projects involving robotics and/or electronics
  * mobile apps: a mobile app project
 
-# How do I enter?
+# How do I take part?
 
 Register here: 
 [Coolest Projects 2023 South Africa Entry Form](https://forms.gle/EQquPXA5VeXujSpC7)
