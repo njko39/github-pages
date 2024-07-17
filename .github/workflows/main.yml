@@ -14,6 +14,7 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
+          ruby-version: "2.7" # Specify the Ruby version here
           bundler-cache: true # Automatically cache and install gems
       - name: Update RubyGems
         run: |
