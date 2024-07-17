@@ -10,12 +10,9 @@ jobs:
   github-pages:
     runs-on: ubuntu-latest
     steps:
-      - name: Set up Ruby 3.3.22 or later
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: ">= 3.3.22"
       - uses: actions/checkout@v2
       - uses: helaili/jekyll-action@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           target_branch: "gh-pages"
+          target_path: v2.0
