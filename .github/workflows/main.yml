@@ -11,6 +11,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - name: Set up RubyGems 3.3.22 or later
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: ">= 3.3.22"
+          bundler-cache: true # Automatically cache and install gems
       - uses: helaili/jekyll-action@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
