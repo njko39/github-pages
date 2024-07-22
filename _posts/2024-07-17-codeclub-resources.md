@@ -78,5 +78,8 @@ Develop your programming skills by quickly creating and modding retro arcade gam
 A Blocks / JavaScript code editor for MakeCode Maker Boards including pi pico.
 [maker.makecode.com](https://maker.makecode.com)
 
-Looking forward to seeing what you make in your club!
+# code.org
+Tap into your students' full potential with Code.org's free Computer Science (CS) curriculum.
+[code.org](https://code.org/) 
 
+Looking forward to seeing what you make in your club!
