@@ -64,6 +64,9 @@ Teach computer programming and coding to your kids with the CS First curriculum,
 Whether you're writing your first CV or deepening your technical knowledge, our library is full of ways to sharpen your digital skillset.
 [grow.google/intl/ssa-en](https://grow.google/intl/ssa-en/#filter)
 
+# Tech Dev Guide
+If you have foundational skills and want to go to the next level, there’s something for you here in Google’s Tech Dev Guide.
+
 # Microsoft Research
 
 ## micro:bit MakeCode
