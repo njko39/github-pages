@@ -35,7 +35,9 @@ Are you a mentor? Have a look at our [guide to paths](https://projects.raspberry
 
 ## code club "on a stick"
 
-To run code club in classrooms without internet connections, you can copy the code club on a stick folder onto a flash drive and it has installers for scratch and pdfs for all of the scratch pathways. [bit.ly/codeclub-stick](https://bit.ly/codeclub-stick)
+To run code club in classrooms without internet connections, you can copy the code club on a stick folder onto a flash drive and it has installers for scratch and pdfs for all of the scratch pathways. 
+
+[bit.ly/codeclub-stick](https://bit.ly/codeclub-stick)
 
 ## code club Community of Practice
 
@@ -57,32 +59,39 @@ If you're curious to see if there is already a club near you to connect with, yo
 
 ## CS First
 Teach computer programming and coding to your kids with the CS First curriculum, free of charge. Students can create fun, interactive projects.
+
 [csfirst.withgoogle.com](https://csfirst.withgoogle.com/s/en/home)
 
 
 # Digital Skills for Africa
 Whether you're writing your first CV or deepening your technical knowledge, our library is full of ways to sharpen your digital skillset.
+
 [grow.google/intl/ssa-en](https://grow.google/intl/ssa-en/#filter)
 
 # Tech Dev Guide
 If you have foundational skills and want to go to the next level, there’s something for you here in Google’s Tech Dev Guide.
+[techdevguide.withgoogle.com](https://techdevguide.withgoogle.com)
 
 # Microsoft Research
 
 ## micro:bit MakeCode
 A Blocks / JavaScript code editor for the micro:bit powered by Microsoft MakeCode.
+
 [makecode.microbit.org](https://makecode.microbit.org)
 
 ## MakeCode Arcade
 Develop your programming skills by quickly creating and modding retro arcade games with Blocks and JavaScript in the MakeCode editor.
+
 [arcade.makecode.com](https://arcade.makecode.com)
 
 ## MakeCode Maker
 A Blocks / JavaScript code editor for MakeCode Maker Boards including pi pico.
+
 [maker.makecode.com](https://maker.makecode.com)
 
 # code.org
 Tap into your students' full potential with Code.org's free Computer Science (CS) curriculum.
+
 [code.org](https://code.org/) 
 
 Looking forward to seeing what you make in your club!
