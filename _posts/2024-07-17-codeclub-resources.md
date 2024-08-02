@@ -70,6 +70,7 @@ Whether you're writing your first CV or deepening your technical knowledge, our 
 
 # Tech Dev Guide
 If you have foundational skills and want to go to the next level, there’s something for you here in Google’s Tech Dev Guide.
+
 [techdevguide.withgoogle.com](https://techdevguide.withgoogle.com)
 
 # Microsoft Research
