@@ -4,7 +4,7 @@ current: post
 cover: assets/images/Coolest_Projects_2020_Logo_South_Africa.png
 navigation: True
 title: Coolest Projects South Africa 2024
-date: 2024-09-10 11:00:00
+date: 2024-09-09 11:00:00
 tags: [Coolest Projects]
 class: post-template
 subclass: 'post tag-getting-started'
