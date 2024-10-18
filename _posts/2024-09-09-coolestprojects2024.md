@@ -61,7 +61,7 @@ Entries can be in one of the following categories:
 # How do I take part?
 
 Register here: 
-[Coolest Projects 2023 South Africa Entry Form](https://forms.gle/N4jmz7swTnH4TVN46)
+[Coolest Projects 2024 South Africa Entry Form](https://forms.gle/N4jmz7swTnH4TVN46)
 
 ## In Person
 Simply bring yourself and your project to the event!
